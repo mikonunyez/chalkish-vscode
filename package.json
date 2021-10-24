@@ -3,6 +3,14 @@
     "displayName": "chalkish",
     "description": "dark chalk-ish color theme for vscode",
     "version": "0.0.1",
+    "publisher": "mikonunez",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "chalk",
+        "dark",
+        "chalkish"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
