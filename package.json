@@ -1,0 +1,21 @@
+{
+    "name": "chalkish",
+    "displayName": "chalkish",
+    "description": "dark chalk-ish color theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chalkish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chalkish-color-theme.json"
+            }
+        ]
+    }
+}
