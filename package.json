@@ -4,6 +4,10 @@
     "description": "dark chalk-ish color theme for vscode",
     "version": "0.0.1",
     "publisher": "mikonunez",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikonunyez/chalkish-vscode"
+    },
     "keywords": [
         "theme",
         "dark theme",
