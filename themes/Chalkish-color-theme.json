@@ -1866,7 +1866,7 @@
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc33",
     "sideBarTitle.foreground": "#bbbbbb",
-    "sideBar.border": "#00000000",
+    "sideBar.border": "#1e1e1e",
     "list.inactiveSelectionBackground": "#1e1e1e",
     "list.inactiveSelectionForeground": "#cccccc",
     "list.hoverBackground": "#ffffff10",
