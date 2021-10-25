@@ -18,3 +18,6 @@ Fixed some minor issues in packaging.
 
 ## [0.0.3]
 Updated sideBar.color to match main environment background. Removes the gap between the background of the actively selected file and the main environment background.
+
+## [0.0.3.1]
+Uhh yeah im a dum dum I meant sideBar.border
